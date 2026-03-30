@@ -1,4 +1,4 @@
-# Power BI : Coffee Sales Perfrormance Dashboard
+# Power BI : Coffee Sales Performance Dashboard
 #### Table Of Contents
 - [Project Overview](project-overview)
 - [Data Source](Data-source)
